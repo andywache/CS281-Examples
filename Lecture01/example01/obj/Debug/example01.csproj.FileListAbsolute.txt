@@ -32,3 +32,9 @@ C:\SC281-Examples\Lecture01\example01\bin\zh-Hant\Microsoft.AspNet.Membership.Op
 C:\SC281-Examples\Lecture01\example01\obj\Debug\example01.csprojResolveAssemblyReference.cache
 C:\SC281-Examples\Lecture01\example01\obj\Debug\example01.dll
 C:\SC281-Examples\Lecture01\example01\obj\Debug\example01.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture01\example01\bin\Debug\example01.exe.config
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture01\example01\bin\Debug\example01.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture01\example01\bin\Debug\example01.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture01\example01\obj\Debug\example01.csprojResolveAssemblyReference.cache
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture01\example01\obj\Debug\example01.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture01\example01\obj\Debug\example01.pdb
