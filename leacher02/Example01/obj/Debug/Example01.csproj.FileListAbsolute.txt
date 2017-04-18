@@ -1,0 +1,6 @@
+c:\users\pscandy\documents\visual studio 2017\Projects\leacher2\Example01\bin\Debug\Example01.exe.config
+c:\users\pscandy\documents\visual studio 2017\Projects\leacher2\Example01\bin\Debug\Example01.exe
+c:\users\pscandy\documents\visual studio 2017\Projects\leacher2\Example01\bin\Debug\Example01.pdb
+c:\users\pscandy\documents\visual studio 2017\Projects\leacher2\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+c:\users\pscandy\documents\visual studio 2017\Projects\leacher2\Example01\obj\Debug\Example01.exe
+c:\users\pscandy\documents\visual studio 2017\Projects\leacher2\Example01\obj\Debug\Example01.pdb
