@@ -1,0 +1,6 @@
+C:\Users\PSCandy\Desktop\class\CS281-Examples\lectuer02\example04\bin\Debug\example04.exe.config
+C:\Users\PSCandy\Desktop\class\CS281-Examples\lectuer02\example04\bin\Debug\example04.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\lectuer02\example04\bin\Debug\example04.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\lectuer02\example04\obj\Debug\example04.csprojResolveAssemblyReference.cache
+C:\Users\PSCandy\Desktop\class\CS281-Examples\lectuer02\example04\obj\Debug\example04.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\lectuer02\example04\obj\Debug\example04.pdb
