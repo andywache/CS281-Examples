@@ -11,7 +11,7 @@ namespace example04
         private static void Main(string[] args)
         {
             long ms = 0;
-            Console.Write("請輸入毫秒：");
+            Console.WriteLine("請輸入毫秒：");
             try
             {
                 ms = long.Parse(Console.ReadLine());

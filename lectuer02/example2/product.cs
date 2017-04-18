@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace example2
 {
-    internal class product
+    public class Product
     {
         public string Name;
         public int Price;

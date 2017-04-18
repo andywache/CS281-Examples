@@ -1,4 +1,5 @@
-﻿using System;
+﻿using example2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace Example02
         {
             Console.Write("請輸入要加入幾項產品:");
             int count = int.Parse(Console.ReadLine());
-            List<Product> productList = new List<Product>();
+            List<Product> productList = new List<Product>();    //建立一個 屬性為學生的List
             for (int index = 1; index <= count; index++)
             {
                 Product product = new Product();
