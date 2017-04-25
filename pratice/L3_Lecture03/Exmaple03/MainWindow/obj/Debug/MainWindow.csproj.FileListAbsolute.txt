@@ -1,0 +1,9 @@
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\bin\Debug\MainWindow.exe.config
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\bin\Debug\MainWindow.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\bin\Debug\MainWindow.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\obj\Debug\MainWindow.csprojResolveAssemblyReference.cache
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\obj\Debug\MainWindow.Form1.resources
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\obj\Debug\MainWindow.Properties.Resources.resources
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\obj\Debug\MainWindow.csproj.GenerateResource.Cache
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\obj\Debug\MainWindow.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\pratice\L3_Lecture03\Exmaple03\MainWindow\obj\Debug\MainWindow.pdb
