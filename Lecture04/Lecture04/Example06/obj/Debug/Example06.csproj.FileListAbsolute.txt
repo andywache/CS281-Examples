@@ -1,0 +1,6 @@
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture04\Lecture04\Example06\bin\Debug\Example06.exe.config
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture04\Lecture04\Example06\bin\Debug\Example06.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture04\Lecture04\Example06\bin\Debug\Example06.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture04\Lecture04\Example06\obj\Debug\Example06.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture04\Lecture04\Example06\obj\Debug\Example06.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture04\Lecture04\Example06\obj\Debug\Example06.csprojResolveAssemblyReference.cache

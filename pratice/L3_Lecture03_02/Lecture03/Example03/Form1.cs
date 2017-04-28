@@ -22,32 +22,79 @@ namespace Example03
 
         private void MakeDecision(int decision)
         {
-            if (scenecurrent.Id == 1) scenecurrent.ChangeTo(2);
-            else if (scenecurrent.Id == 2)
+            switch (scenecurrent.Id)
             {
-                if (decision == 1) { scenecurrent.ChangeTo(8); }
-                else { scenecurrent.ChangeTo(3); }
+                case 1:
+                    scenecurrent.ChangeTo(2);
+                    break;
+
+                case 2:
+                    if (decision == 1) { scenecurrent.ChangeTo(8); }
+                    else { scenecurrent.ChangeTo(3); }
+                    break;
+
+                case 3:
+                    if (decision == 1) { scenecurrent.ChangeTo(4); }
+                    else { scenecurrent.ChangeTo(5); }
+                    break;
+
+                case 4:
+                    scenecurrent.ChangeTo(1);
+                    break;
+
+                case 5:
+                    if (decision == 1) { scenecurrent.ChangeTo(6); }
+                    else { scenecurrent.ChangeTo(7); }
+                    break;
+
+                case 6:
+                    scenecurrent.ChangeTo(1);
+                    break;
+
+                case 7:
+                    scenecurrent.ChangeTo(1);
+                    break;
+
+                case 8:
+                    if (decision == 1) { scenecurrent.ChangeTo(9); }
+                    else { scenecurrent.ChangeTo(10); }
+                    break;
+
+                case 9:
+                    scenecurrent.ChangeTo(3);
+                    break;
+
+                case 10:
+                    scenecurrent.ChangeTo(1);
+                    break;
             }
-            else if (scenecurrent.Id == 3)
-            {
-                if (decision == 1) { scenecurrent.ChangeTo(4); }
-                else { scenecurrent.ChangeTo(5); }
-            }
-            else if (scenecurrent.Id == 4) scenecurrent.ChangeTo(1);
-            else if (scenecurrent.Id == 5)
-            {
-                if (decision == 1) { scenecurrent.ChangeTo(6); }
-                else { scenecurrent.ChangeTo(7); }
-            }
-            else if (scenecurrent.Id == 6) scenecurrent.ChangeTo(1);
-            else if (scenecurrent.Id == 7) scenecurrent.ChangeTo(1);
-            else if (scenecurrent.Id == 8)
-            {
-                if (decision == 1) { scenecurrent.ChangeTo(9); }
-                else { scenecurrent.ChangeTo(10); }
-            }
-            else if (scenecurrent.Id == 9) scenecurrent.ChangeTo(3);
-            else { scenecurrent.ChangeTo(1); }
+
+            //if (scenecurrent.Id == 1) scenecurrent.ChangeTo(2);
+            //else if (scenecurrent.Id == 2)
+            //{
+            //    if (decision == 1) { scenecurrent.ChangeTo(8); }
+            //    else { scenecurrent.ChangeTo(3); }
+            //}
+            //else if (scenecurrent.Id == 3)
+            //{
+            //    if (decision == 1) { scenecurrent.ChangeTo(4); }
+            //    else { scenecurrent.ChangeTo(5); }
+            //}
+            //else if (scenecurrent.Id == 4) scenecurrent.ChangeTo(1);
+            //else if (scenecurrent.Id == 5)
+            //{
+            //    if (decision == 1) { scenecurrent.ChangeTo(6); }
+            //    else { scenecurrent.ChangeTo(7); }
+            //}
+            //else if (scenecurrent.Id == 6) scenecurrent.ChangeTo(1);
+            //else if (scenecurrent.Id == 7) scenecurrent.ChangeTo(1);
+            //else if (scenecurrent.Id == 8)
+            //{
+            //    if (decision == 1) { scenecurrent.ChangeTo(9); }
+            //    else { scenecurrent.ChangeTo(10); }
+            //}
+            //else if (scenecurrent.Id == 9) scenecurrent.ChangeTo(3);
+            //else { scenecurrent.ChangeTo(1); }
         }
 
         private void yesButton_Click(object sender, EventArgs e)

@@ -1,0 +1,9 @@
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\bin\Debug\curl.exe.config
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\bin\Debug\curl.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\bin\Debug\curl.pdb
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\obj\Debug\curl.csprojResolveAssemblyReference.cache
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\obj\Debug\curl.Form1.resources
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\obj\Debug\curl.Properties.Resources.resources
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\obj\Debug\curl.csproj.GenerateResource.Cache
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\obj\Debug\curl.exe
+C:\Users\PSCandy\Desktop\class\CS281-Examples\Lecture03\L3_pratice\curl\obj\Debug\curl.pdb
